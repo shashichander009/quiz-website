@@ -2,7 +2,7 @@
 
 #!/bin/bash
 
-# example of using arguments to a script
+# This script is used to push git commits  
 
 git add .
 git commit -m "commit : $1"
