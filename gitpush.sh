@@ -7,4 +7,3 @@
 git add .
 git commit -m "commit : $1"
 git push
-git log --oneline
