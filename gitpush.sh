@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 
 # This script is used to push git commits  
