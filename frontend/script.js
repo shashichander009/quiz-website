@@ -1,7 +1,7 @@
 const quizDB = [
   {
     question:
-      "Q1 : The cake of which one of the following materials prepared with",
+      "Q1 : The cake of which one of the following materials prepared with nothing",
     a: "Coconut",
     b: "Palm",
     c: "Mahua",
