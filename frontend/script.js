@@ -25,12 +25,12 @@ const quizDB = [
     ans: "ans1",
   },
   {
-    question: "Q4 : how are you today",
-    a: "option for a",
-    b: "option for a",
-    c: "option for a",
-    d: "option for a",
-    ans: "ans5",
+    question: "Q4 : Who is the CM Of Delhi",
+    a: "Mamta",
+    b: "Kejri",
+    c: "Modi",
+    d: "Yogi",
+    ans: "ans2",
   },
 ];
 
