@@ -1,3 +1,5 @@
+// This is the sample DB which we will replace with API calls.
+
 const quizDB = [
   {
     question:
