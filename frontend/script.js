@@ -8,7 +8,7 @@ const quizDB = [
     b: "Palm",
     c: "Mahua",
     d: "Karanj",
-    ans: "ans1",
+    ans: "ans2",
   },
   {
     question: "Q2 : What is the Capital of India",
